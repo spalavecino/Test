@@ -14,13 +14,13 @@ namespace Anagramas
             string cadena = "hola, que buena ola Laomir";
             string otraCadena = "OAL";
 
-            int cantidadDeAnagramas = Solucion(cadena, otraCadena);
+            int cantidadDeAnagramas = Solution(cadena, otraCadena);
 
             Console.WriteLine("{0}", cantidadDeAnagramas);
             Console.ReadKey();
         }
 
-        static int Solucion(string A, string B)
+        static int Solution(string A, string B)
         {
             string cadenaA = (A.ToLower()).Replace(" ", string.Empty).Replace(",", string.Empty).Replace("!", string.Empty).Replace("¡", string.Empty).Replace("?", string.Empty).Replace("¿", string.Empty);
             string cadenaB = (B.ToLower()).Replace(" ", string.Empty).Replace(",", string.Empty).Replace("!", string.Empty).Replace("¡", string.Empty).Replace("?", string.Empty).Replace("¿", string.Empty);
