@@ -1,0 +1,6 @@
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\bin\Debug\Anagramas.exe.config
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\bin\Debug\Anagramas.exe
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\bin\Debug\Anagramas.pdb
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\obj\Debug\Anagramas.csprojResolveAssemblyReference.cache
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\obj\Debug\Anagramas.exe
+c:\users\spalavecino.certant\documents\visual studio 2015\Projects\Anagramas\Anagramas\obj\Debug\Anagramas.pdb
